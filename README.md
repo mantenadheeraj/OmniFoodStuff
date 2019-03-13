@@ -3,6 +3,6 @@ A web Application to a fictional restaurant, for web clients. The architecture o
 
 `git clone https://github.com/mantenadheeraj/OmniFoodStuff`
 
-`cd omnifood `
+`cd OmniFoodStuff `
 
 `open index.html in file protocol`
